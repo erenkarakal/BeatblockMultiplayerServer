@@ -1,5 +1,4 @@
 This is the server-side code for the Beatblock Multiplayer mod.\
-Looking for the client-side mod? Click [here](https://github.com/erenkarakal/BeatblockMultiplayerClient).
 
 ## Hosting your own lobby
 This is for advanced users, if you simply want to play with your friend consider using the official multiplayer server instead.
