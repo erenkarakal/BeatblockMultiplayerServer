@@ -1,0 +1,13 @@
+*.exe
+*.log
+*.test
+*.out
+coverage.*
+build/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+excluded/
