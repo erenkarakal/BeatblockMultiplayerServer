@@ -11,7 +11,8 @@ You need:
 
 Port forwarding process is different depending on your OS, ISP, router ... It won't be included here
 
-- Run `build_win` or `build_linux` to compile. The server executable will be inside `build/` or download it from [releases](https://github.com/erenkarakal/BeatblockMultiplayerServer/releases/latest)
+- Run `build_win` or `build_linux` to compile, the server executable will be inside `build/`
+- or download it from [releases](https://github.com/erenkarakal/BeatblockMultiplayerServer/releases/latest)
 - Simply run the server.
 
 ### Startup Parameters
